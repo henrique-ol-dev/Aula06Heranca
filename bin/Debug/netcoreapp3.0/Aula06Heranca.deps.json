@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Aula06Heranca/1.0.0": {
+        "runtime": {
+          "Aula06Heranca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula06Heranca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
